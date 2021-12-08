@@ -7,9 +7,9 @@ Nosotros nos propusimos a analizar las estadisticas de torneos y mundiales futbo
 
 -Estadisticas descriptivas de desempeño por equipo en cada año que participaron del torneo
 
--comprender la distribucion por region de los equipos en permanencia en primera division
+-Comprender la distribucion por region de los equipos en permanencia en primera division
 
--relacion entre popularidad (en base a hinchada) y rendimiento de un equipo por torneo 
+-Relacion entre popularidad (en base a hinchada) y rendimiento de un equipo por torneo 
 
 -Relacion del balance total por equipo en concepto de venta y compra de jugadores y su rendimiento
 
