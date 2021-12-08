@@ -1,6 +1,9 @@
 ## Proyecto LICD
 
-You can use the [editor on GitHub](https://github.com/BenJofre27/Proyecto-LICD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Nosotros nos propusimos a analizar las estadisticas de torneos y mundiales futbolisticos de la ultima decada; donde tocamos temas como:
+-Estadisticas descriptivas de desempeño por equipo en cada año que participaron del torneo
+-comprender la distribucion por region de los equipos en permanencia en primera division
+-relacion entre popularidad y rendimiento
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
