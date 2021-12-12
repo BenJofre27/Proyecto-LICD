@@ -1,3 +1,5 @@
+![UC](Escritorio/LICD segundo semestre/Introduccion a ciencia de datos/Proyecto/OIP.jpg)
+
 ## Análisis de rendimiento del Campeonato Nacional de Futbol Chileno Profesional entre los años 2010 a 2020
 
 Este proyecto surgió por el fanatismo que tenemos hacia el futbol, los torneos nacionales y cada amistoso que se ha desarrollado que hemos puesto nuestra atencion, desarrollando un gran sentimiento de amor y aprecio por el deporte, generando lazos con equipos determinados por su juego, cordinacion y determinacion por ganar.
