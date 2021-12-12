@@ -17,7 +17,6 @@ Nosotros nos propusimos a analizar las estadisticas de torneos y mundiales futbo
 
 -Relacion entre ganancias netas por equipo y su rendimiento durante el torneo
 
-
 ## Observaciones y hallazgos
 
 Para simplificar un poco los datos hemos analizado cual a sido el top 5 de los equipos que sobresalieron (y que han ganado) en los torneos de cada año.
