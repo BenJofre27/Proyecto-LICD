@@ -1,4 +1,4 @@
-![UC](Escritorio/LICD segundo semestre/Introduccion a ciencia de datos/Proyecto/OIP.jpg)
+# <img style="float: left; padding-right: 0.1cm; width: 9.0cm" src="https://tse1.mm.bing.net/th/id/OIP.TXgVEB0rbgixgpkAc8MbzQHaC9?pid=ImgDet&rs=1">
 
 ## Análisis de rendimiento del Campeonato Nacional de Futbol Chileno Profesional entre los años 2010 a 2020
 
