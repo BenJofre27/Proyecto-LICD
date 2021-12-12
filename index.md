@@ -18,3 +18,16 @@ Nosotros nos propusimos a analizar las estadisticas de torneos y mundiales futbo
 -Relacion entre ganancias netas por equipo y su rendimiento durante el torneo
 
 
+## Observaciones y hallazgos
+
+Para simplificar un poco los datos hemos analizado cual a sido el top 5 de los equipos que sobresalieron (y que han ganado) en los torneos de cada año.
+
+De este analisis se han destacado tres: La Universidad de Chile, la Universidad Catolica y el Colo-Colo 
+
+1.) De la Universidad de Chile vemos que ha quedado en el top 5 ocho veces (con escepción en los años 2013, 2015 y 2019) y ha ganado el torneo de los años 2011 y 2012
+
+2.) Le sigue la Universidad Catolica que ha logrado estar 9 veces dentro de los 5 mejores (donde no pudieron en los años 2014 y 2017), y la sorpresa es que han ganado 7 de 11 torneos en los ultimos 10 años analizados, con una racha de tres torneos ganados entre los años 2018 a 2020. Se convierte en el máximo triunfador de la decada.
+
+3.) Por ultimo tenemos a Colo-Colo, que comparado con el resto ha permanecido en el top 5 10 veces, con la unica escepcion el año 2020 donde tuvieron muchas complicaciones. Y solo han ganado dos torneos, el de 2014 y 2017
+
+Una comparacion interesante es que colo-colo ha ganado en los mismos años en que la UC no a podido quedar entre los 5 mejores, haciendonos interpretar que los albinos tienen un mejor desempeño cuando saben que los catolicos tienen complicaciones en su partidos; pero tambien hay que considerar otras estadisticas 
