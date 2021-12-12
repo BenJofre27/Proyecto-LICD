@@ -1,4 +1,4 @@
-# <img style="float: left; padding-right: 0.1cm; width: 9.0cm" src="https://th.bing.com/th/id/R.69cb7735a422db336e0d49d0dc89c21c?rik=YmUVpMyvcM4B%2bw&pid=ImgRaw&r=0">
+# <img style="float: left; padding-right: 0.2cm; width: 9.0cm" src="https://th.bing.com/th/id/R.69cb7735a422db336e0d49d0dc89c21c?rik=YmUVpMyvcM4B%2bw&pid=ImgRaw&r=0">
 
 ## Análisis de rendimiento del Campeonato Nacional de Futbol Chileno Profesional entre los años 2010 a 2020
 
