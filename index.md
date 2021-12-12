@@ -22,7 +22,7 @@ Nosotros nos propusimos a analizar las estadisticas de torneos y mundiales futbo
 Para simplificar un poco los datos hemos analizado cual a sido el top 5 de los equipos que sobresalieron (y que han ganado) en los torneos de cada año.
 
 De este analisis se han destacado tres: La Universidad de Chile, la Universidad Catolica y el Colo-Colo
-# <img style="float: center; padding-right: 0.2cm; width: 5.0cm" src="https://th.bing.com/th/id/R.eb9f4b9c1f6a937ae39c3eb85241bb28?rik=V3F7vqqe4izTOQ&pid=ImgRaw&r=0&sres=1&sresct=1">
+# <img style="float: center; padding-right: 0.5cm; width: 5.0cm" src="https://th.bing.com/th/id/R.eb9f4b9c1f6a937ae39c3eb85241bb28?rik=V3F7vqqe4izTOQ&pid=ImgRaw&r=0&sres=1&sresct=1">
 
 1.) De la Universidad de Chile vemos que ha quedado en el top 5 ocho veces (con escepción en los años 2013, 2015 y 2019) y ha ganado el torneo de los años 2011 y 2012
 
