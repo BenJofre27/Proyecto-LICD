@@ -29,4 +29,4 @@ De este analisis se han destacado tres: La Universidad de Chile, la Universidad 
 
 3.) Por ultimo tenemos a Colo-Colo, que comparado con el resto ha permanecido en el top 5 10 veces, con la unica escepcion el año 2020 donde tuvieron muchas complicaciones. Y solo han ganado dos torneos, el de 2014 y 2017
 
-Una comparacion interesante es que colo-colo ha ganado en los mismos años en que la UC no a podido quedar entre los 5 mejores, haciendonos interpretar que los albinos tienen un mejor desempeño cuando saben que los catolicos tienen complicaciones en su partidos; pero tambien hay que considerar otras estadisticas 
+Una comparacion interesante es que colo-colo ha ganado en los mismos años en que la UC no a podido quedar entre los 5 mejores, lo que podria indicar que habria una relacion entre el desempeño de ambos equipos, donde si a uno le esta yendo mal, el otro aprovecha para ganar confianza y mejorar en sus partidos 
