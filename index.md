@@ -5,7 +5,13 @@
 Este proyecto surgió por el fanatismo que tenemos hacia el futbol, los torneos nacionales y cada amistoso que se ha desarrollado que hemos puesto nuestra atencion, desarrollando un gran sentimiento de amor y aprecio por el deporte, generando lazos con equipos determinados por su juego, cordinacion y determinacion por ganar.
 Dando un paso mas alla, nos intrigo el funcionamiento de cada equipo para que nos den el espectaculo que tanto nos gusta ver en vivo, y nos concentramos en analizar estadisticas de los campeonatos nacionales de fútbol profesional chileno de primera división.
 
-Nosotros nos propusimos a analizar las estadisticas de torneos y mundiales futbolisticos de la ultima decada; donde tocamos temas como:
+Utilizamos como fuentes de información las paginas siguientes:
+
+-Wkipedia, que nos facilitaba la obtención de resultados positivos, ya que poseia varias tablas con información útil respecto al año de torneo que se requería, y era mas sencillo aplicar web scraping.
+
+-Tansfermarkt, el cual provee información sobre valores de mercados de los equipos, vlores de mercado de los jugadores, ingresos obtenidos por venta de jugadores de los equipos por año, costos obtenidos por la compra de jugadores de los equipos por año, etc.
+
+Nuestra propuesta fue analizar las estadisticas de torneos y mundiales futbolisticos de la ultima decada; donde tocamos temas como:
 
 -Estadisticas descriptivas de desempeño por equipo en cada año que participaron del torneo
 
@@ -15,9 +21,19 @@ Nosotros nos propusimos a analizar las estadisticas de torneos y mundiales futbo
 
 -Relacion del balance total por equipo en concepto de venta y compra de jugadores y su rendimiento
 
--Relacion entre ganancias netas por equipo y su rendimiento durante el torneo
-
 ## Observaciones y hallazgos
+
+
+
+
+
+
+
+
+
+
+
+
 
 Para simplificar un poco los datos hemos analizado cual a sido el top 5 de los equipos que sobresalieron (y que han ganado) en los torneos de cada año.
 
