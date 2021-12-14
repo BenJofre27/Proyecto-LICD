@@ -42,7 +42,9 @@ Los resultados hallados durante el estudio de lo planteado los responderemos en 
 
 -
 
-<img style="float: left; padding-right: 0.2cm; width: 10.0cm" src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/regresion_2/regresion_2.png">
+<img style="float: left; padding-right: 0.2cm; width: 8.5cm" src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/regresion_2/regresion_2.png">
+
+-
 
 2) Para la pregunta dos apreciamos que gran parte de los equipos que han estado en primera división estos 10 útlimos años pertenecen a la región metropolitana. Se puede apreciar que en general estos equipos son los que presentan un mayor gasto en compra y venta de jugadores, lo que habla del poder adquisitivo de estos equipos en comparación con los equipos de regiones. También es notoria la diferencia en la capacidad de los estadios, superando hasta en casi 4 veces el tamaño de los estadios de los equipos de regiones pequeños. 
 
