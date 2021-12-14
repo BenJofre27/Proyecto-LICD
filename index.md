@@ -32,7 +32,7 @@ Nuestra propuesta fue analizar las estadisticas de torneos y mundiales futbolist
 5-¿Existe correlación entre el balance total en concepto de compra y venta de jugadores de los 3 mejores equipos y los 3 peores 
 equipos de los torneos por años y su rendimiento en los torneos?
 
-6-¿Serán los equipos que más invierten los con mejor rendimiento?
+### 6-¿Serán los equipos que más invierten los con mejor rendimiento?
 
 # Observaciones y hallazgos
 
@@ -59,7 +59,8 @@ equipos de los torneos por años y su rendimiento en los torneos?
 #### 2) Para la pregunta dos apreciamos que gran parte de los equipos que han estado en primera división estos 10 útlimos años pertenecen a la región metropolitana. Se puede apreciar que en general estos equipos son los que presentan un mayor gasto en compra y venta de jugadores, lo que habla del poder adquisitivo de estos equipos en comparación con los equipos de regiones. También es notoria la diferencia en la capacidad de los estadios, superando hasta en casi 4 veces el tamaño de los estadios de los equipos de regiones pequeños.
 
 ##### Distribución de equipos que permanericeron en primera división.
-<p include figure.html >
+
+<p include huasos.html >
 </p>
 
 
@@ -72,7 +73,8 @@ equipos de los torneos por años y su rendimiento en los torneos?
 ---
 
 ## Video de la presentación
-
+<p include huasos.html >
+</p>
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t5098uwdkMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
