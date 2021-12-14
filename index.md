@@ -36,36 +36,49 @@
 
 # Observaciones y hallazgos
 
-### Veamos un gráfico que presente los puntos obtenidos por todos los equipos en nuestro Data Frame final.
+- ### Veamos el Data Frame a utilizar en nuestra primera observación.
+
+<img src="https://github.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/blob/main/graficos%20finales/gdf_final.PNG?raw=true"
+ width="900"/>
+
+- ### Veamos un gráfico que presente los puntos obtenidos por todos los equipos en nuestro Data Frame final.
 
 {% include graphg.html %}
 
-### Veamos un **mapa** con el cual podremos visualizar la distribución de los equipos y su estadio a lo largo de Chile.
+- ### Veamos un **mapa** con el cual podremos visualizar la distribución de los equipos y su estadio a lo largo de Chile.
 
 {% include figure.html %}
 
 
 ### Los resultados hallados durante el estudio de lo planteado los responderemos en base a la relacion que tienen con respecto a las preguntas de investigación planteadas:
 
+<div class ="contenedor">
 
-<img style="float: left; padding-right: 0.4cm; width: 8.5cm" src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/regresion_2/regresion_2.png">
+- ### Notemos ambos graficos representantes de las `regresiones` `lineales` para ambos casos de `investigación`:
+<img src="https://github.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/blob/main/graficos%20finales/regresion_1/Regresion.png?raw=true"
+width="400">
+<img src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/regresion_2/regresion_2.png"
+width="400">
+</div>
 
-#### 1) Respondiendo a la pregunta 1, utilizamos el dataset de los equipos que permanecieron en primera división durante todo el intervalo de tiempo medido para el proyecto. Es importante resaltar que el numero de datos ingresados son bajos ya que el Nº de equipos que se mantuvo en primera división durante los 10 años en que se midio el proyecto fueron 9. De esta manera las metricas utilizadas como el MSE y R2, dificilmente son posibles de analizar correctamente debido a la baja cantidad de datos. Por lo tanto el análisis para este apartado estaría sesgado debido a la baja cantidad de datos.
+- #### 1) Respondiendo a la pregunta 1, utilizamos el dataset de los equipos que permanecieron en primera división durante todo el intervalo de tiempo medido para el proyecto. Es importante resaltar que el numero de datos ingresados son bajos ya que el Nº de equipos que se mantuvo en primera división durante los 10 años en que se midio el proyecto fueron 9. De esta manera las metricas utilizadas como el MSE y R2, dificilmente son posibles de analizar correctamente debido a la baja cantidad de datos. Por lo tanto el análisis para este apartado estaría sesgado debido a la baja cantidad de datos.
 
-<img style="float: left; padding-right: 0.8cm; width: 8.0cm" src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/GDF_ESPECIFICO.PNG" width="600" height="315">
+<img src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/GDF_ESPECIFICO.PNG"
+ width="900"/>
 
-#### 2) Para la pregunta dos apreciamos que gran parte de los equipos que han estado en primera división estos 10 útlimos años pertenecen a la región metropolitana. Se puede apreciar que en general estos equipos son los que presentan un mayor gasto en compra y venta de jugadores, lo que habla del poder adquisitivo de estos equipos en comparación con los equipos de regiones. También es notoria la diferencia en la capacidad de los estadios, superando hasta en casi 4 veces el tamaño de los estadios de los equipos de regiones pequeños.
+- #### 2) Para la pregunta dos apreciamos que gran parte de los equipos que han estado en primera división estos 10 útlimos años pertenecen a la región metropolitana. Se puede apreciar que en general estos equipos son los que presentan un mayor gasto en compra y venta de jugadores, lo que habla del poder adquisitivo de estos equipos en comparación con los equipos de regiones. También es notoria la diferencia en la capacidad de los estadios, superando hasta en casi 4 veces el tamaño de los estadios de los equipos de regiones pequeños.
 
-##### Distribución de equipos que permanericeron en primera división.
+    #### Distribución de equipos que permanericeron en primera división:
 
 {% include huasos.html %}
 
 
-#### 3) Para las preguntas 3 y 4, al analizar el dataframe de rendimiento acumulado, vemos que 6 de los 7 equipos de la región metropolitana se han mantenido sin descender a lo largo del intervalo de tiempo estudiado. Esto puede ser indicativo de que al ser un equipo de región se tiene mayores probabilidades de descender a la segunda división del fútbol chileno. No consideramos el ser de región como variable categórica en el análisis ya que pudimos llegar a esta conclusión mediante el dataframe de rendimiento acumulado.
+- #### 3) Para las preguntas 3 y 4, al analizar el dataframe de rendimiento acumulado, vemos que 6 de los 7 equipos de la región metropolitana se han mantenido sin descender a lo largo del intervalo de tiempo estudiado. Esto puede ser indicativo de que al ser un equipo de región se tiene mayores probabilidades de descender a la segunda división del fútbol chileno. No consideramos el ser de región como variable categórica en el análisis ya que pudimos llegar a esta conclusión mediante el dataframe de rendimiento acumulado.
 
-<img style="float: left; padding-right: 0.4cm; width: 8.0cm" src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/regresion_1/lasso_esp.png">
+<img src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/regresion_1/lasso_esp.png"
+width="500"/>
 
-#### 4) Y con respecto a las ultimas dos preguntas, en base al modelo multilineal con regularización seleccionado(regresión Lasso con alfa igual a 1), notamos que las variables ingresos y costos no tienen un peso significativo en la predicción de cantidad de puntos obtenidos por equipo, por lo tanto estas variables no estan influyendo en los rendimientos de los equipos.
+- #### 4) Y con respecto a las ultimas dos preguntas, en base al modelo multilineal con regularización seleccionado(regresión Lasso con alfa igual a 1), notamos que las variables ingresos y costos no tienen un peso significativo en la predicción de cantidad de puntos obtenidos por equipo, por lo tanto estas variables no estan influyendo en los rendimientos de los equipos.
 
 ---
 
@@ -80,19 +93,19 @@
 * ##### Tablas de campeonatos :
     * ##### [2020](https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Chile_2020)
     * ##### [2019](https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Chile_2019)
-    * ##### [2018] : https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Chile_2018
-    * ##### 2017 : https://es.wikipedia.org/wiki/Torneo_de_Transici%C3%B3n_2017_(Chile)
-    * ##### 2016 : https://es.wikipedia.org/wiki/Torneo_Clausura_2017_(Chile)
-    * ##### 2015 : https://es.wikipedia.org/wiki/Torneo_Clausura_2016_(Chile)
-    * ##### 2014 : https://es.wikipedia.org/wiki/Torneo_Clausura_2015_(Chile)
-    * ##### 2013 : https://es.wikipedia.org/wiki/Temporada_2013-2014_del_f%C3%BAtbol_chileno
-    * ##### 2012 : https://es.wikipedia.org/wiki/Torneo_Clausura_2012_(Chile)
-    * ##### 2011 : https://es.wikipedia.org/wiki/Torneo_Clausura_2011_(Chile)
-    * ##### 2010 : https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Chile_2010
+    * ##### [2018](https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Chile_2018)
+    * ##### [2017](https://es.wikipedia.org/wiki/Torneo_de_Transici%C3%B3n_2017_(Chile))
+    * ##### [2016](https://es.wikipedia.org/wiki/Torneo_Clausura_2017_(Chile))
+    * ##### [2015](https://es.wikipedia.org/wiki/Torneo_Clausura_2016_(Chile))
+    * ##### [2014](https://es.wikipedia.org/wiki/Torneo_Clausura_2015_(Chile))
+    * ##### [2013](https://es.wikipedia.org/wiki/Temporada_2013-2014_del_f%C3%BAtbol_chileno)
+    * ##### [2012](https://es.wikipedia.org/wiki/Torneo_Clausura_2012_(Chile))
+    * ##### [2011](https://es.wikipedia.org/wiki/Torneo_Clausura_2011_(Chile))
+    * ##### [2010](https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Chile_2010)
     
 * ##### Datos de Estadio y Asistencia:
-    * ##### Asistencia de público: http://www.estadioseguro.gob.cl/2019/01/04/asistencia-de-publico-a-los-estadios-marca-cifra-record-en-2018/
-    * ##### Estadios: https://es.wikipedia.org/wiki/Anexo:Estadios_de_f%C3%BAtbol_de_Chile
+    * ##### [Asistencia de público](http://www.estadioseguro.gob.cl/2019/01/04/asistencia-de-publico-a-los-estadios-marca-cifra-record-en-2018/)
+    * ##### [Estadios](https://es.wikipedia.org/wiki/Anexo:Estadios_de_f%C3%BAtbol_de_Chile)
     
 * ##### Datos de transferencias 2010-2021:
-    * ##### Transferencias : https://www.transfermarkt.es/primera-division-de-chile/einnahmenausgaben/wettbewerb/CLPD/plus/0?ids=a&sa=&saison_id=2009&saison_id_bis=2009&nat=&pos=&altersklasse=&w_s=&leihe=&intern=0
+    * ##### [Transferencias](https://www.transfermarkt.es/primera-division-de-chile/einnahmenausgaben/wettbewerb/CLPD/plus/0?ids=a&sa=&saison_id=2009&saison_id_bis=2009&nat=&pos=&altersklasse=&w_s=&leihe=&intern=0)
