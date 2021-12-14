@@ -37,11 +37,11 @@ equipos de los torneos por años y su rendimiento en los torneos?
 
 # Observaciones y hallazgos
 
-## Veamos un gráfico que presente los puntos obtenidos por todos los equipos en nuestro Data Frame final.
+### Veamos un gráfico que presente los puntos obtenidos por todos los equipos en nuestro Data Frame final.
 
 {% include graphg.html %}
 
-## Veamos un **mapa** con el cual podremos visualizar la distribución de los equipos y su estadio a lo largo de Chile.
+### Veamos un **mapa** con el cual podremos visualizar la distribución de los equipos y su estadio a lo largo de Chile.
 
 {% include figure.html %}
 
@@ -53,7 +53,6 @@ equipos de los torneos por años y su rendimiento en los torneos?
 
 #### 1) Respondiendo a la pregunta 1, utilizamos el dataset de los equipos que permanecieron en primera división durante todo el intervalo de tiempo medido para el proyecto. Es importante resaltar que el numero de datos ingresados son bajos ya que el Nº de equipos que se mantuvo en primera división durante los 10 años en que se midio el proyecto fueron 9. De esta manera las metricas utilizadas como el MSE y R2, dificilmente son posibles de analizar correctamente debido a la baja cantidad de datos. Por lo tanto el análisis para este apartado estaría sesgado debido a la baja cantidad de datos.
 
-<img style="float: left; padding-right: 0.4cm; width: 7.0cm" src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/mapa%20estadios.jpg">
 
 #### 2) Para la pregunta dos apreciamos que gran parte de los equipos que han estado en primera división estos 10 útlimos años pertenecen a la región metropolitana. Se puede apreciar que en general estos equipos son los que presentan un mayor gasto en compra y venta de jugadores, lo que habla del poder adquisitivo de estos equipos en comparación con los equipos de regiones. También es notoria la diferencia en la capacidad de los estadios, superando hasta en casi 4 veces el tamaño de los estadios de los equipos de regiones pequeños.
 
@@ -70,7 +69,7 @@ equipos de los torneos por años y su rendimiento en los torneos?
 
 ---
 
-## Video de la presentación
+### Video de la presentación
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t5098uwdkMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
