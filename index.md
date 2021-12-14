@@ -57,5 +57,6 @@ Los resultados hallados durante el estudio de lo planteado los responderemos en 
 
 4) Y con respecto a las ultimas dos preguntas, en base al modelo multilineal con regularización seleccionado(regresión Lasso con alfa igual a 1), notamos que las variables ingresos y costos no tienen un peso significativo en la predicción de cantidad de puntos obtenidos por equipo, por lo tanto estas variables no estan influyendo en los rendimientos de los equipos.
 
-<include figure.html>
-
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t5098uwdkMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
