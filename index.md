@@ -39,6 +39,7 @@ equipos de los torneos por años y su rendimiento en los torneos?
 Los resultados hallados durante el estudio de lo planteado los responderemos en base a la relacion que tienen con respecto a las preguntas de investigación planteadas:
 
 1) Respondiendo a la pregunta 1, utilizamos el dataset de los equipos que permanecieron en primera división durante todo el intervalo de tiempo medido para el proyecto. Es importante resaltar que el numero de datos ingresados son bajos ya que el Nº de equipos que se mantuvo en primera división durante los 10 años en que se midio el proyecto fueron 9. De esta manera las metricas utilizadas como el MSE y R2, dificilmente son posibles de analizar correctamente debido a la baja cantidad de datos. Por lo tanto el análisis para este apartado estaría sesgado debido a la baja cantidad de datos.
+
 -
 <img style="float: left; padding-right: 0.4cm; width: 8.5cm" src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/regresion_2/regresion_2.png">
 -
