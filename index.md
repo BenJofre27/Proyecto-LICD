@@ -79,5 +79,4 @@ equipos de los torneos por años y su rendimiento en los torneos?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t5098uwdkMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<p include _includes\huasos.html >
-</p>
+{% include figure.html %}
