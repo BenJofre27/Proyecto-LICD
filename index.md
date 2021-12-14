@@ -52,9 +52,10 @@
 
 ### Los resultados hallados durante el estudio de lo planteado los responderemos en base a la relacion que tienen con respecto a las preguntas de investigación planteadas:
 
+- ### Notemos ambos graficos representantes de las `regresiones` `lineales` para ambos casos de `investigación`:
+  
 <div class ="contenedor">
 
-- ### Notemos ambos graficos representantes de las `regresiones` `lineales` para ambos casos de `investigación`:
 <img src="https://github.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/blob/main/graficos%20finales/regresion_1/Regresion.png?raw=true"
 width="400">
 <img src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/regresion_2/regresion_2.png"
