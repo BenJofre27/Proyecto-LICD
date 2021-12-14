@@ -2,49 +2,48 @@
 
 ## Análisis de rendimiento del Campeonato Nacional de Futbol Chileno Profesional entre los años 2010 a 2020
 
-Este proyecto surgió por el fanatismo que tenemos hacia el futbol, los torneos nacionales y cada amistoso que se ha desarrollado que hemos puesto nuestra atencion, desarrollando un gran sentimiento de amor y aprecio por el deporte, generando lazos con equipos determinados por su juego, cordinacion y determinacion por ganar.
-Dando un paso mas alla, nos intrigo el funcionamiento de cada equipo para que nos den el espectaculo que tanto nos gusta ver en vivo, y nos concentramos en analizar estadisticas de los campeonatos nacionales de fútbol profesional chileno de primera división.
+#### Este proyecto surgió por el fanatismo que tenemos hacia el futbol, los torneos nacionales y cada amistoso que se ha desarrollado que hemos puesto nuestra atencion, desarrollando un gran sentimiento de amor y aprecio por el deporte, generando lazos con equipos determinados por su juego, cordinacion y determinacion por ganar.
 
-Utilizamos como fuentes de información las paginas siguientes:
+#### Dando un paso mas alla, nos intrigo el funcionamiento de cada equipo para que nos den el espectaculo que tanto nos gusta ver en vivo, y nos concentramos en analizar estadisticas de los campeonatos nacionales de fútbol profesional chileno de primera división.
 
--Wkipedia, que nos facilitaba la obtención de resultados positivos, ya que poseia varias tablas con información útil respecto al año de torneo que se requería, y era mas sencillo aplicar web scraping.
+#### Utilizamos como fuentes de información las paginas siguientes:
 
--Tansfermarkt, el cual provee información sobre valores de mercados de los equipos, vlores de mercado de los jugadores, ingresos obtenidos por venta de jugadores de los equipos por año, costos obtenidos por la compra de jugadores de los equipos por año, etc.
+- #### Wkipedia, que nos facilitaba la obtención de resultados positivos, ya que poseia varias tablas con información útil respecto al año de torneo que se requería, y era mas sencillo aplicar web scraping.
 
-Nuestra propuesta fue analizar las estadisticas de torneos y mundiales futbolisticos de la ultima decada; donde tocamos temas como:
+- #### Tansfermarkt, el cual provee información sobre valores de mercados de los equipos, vlores de mercado de los jugadores, ingresos obtenidos por venta de jugadores de los equipos por año, costos obtenidos por la compra de jugadores de los equipos por año, etc.
 
--Estadisticas descriptivas de desempeño por equipo en cada año que participaron del torneo
+#### Nuestra propuesta fue analizar las estadisticas de torneos y mundiales futbolisticos de la ultima decada; donde tocamos temas como:
 
--Comprender la distribucion por region de los equipos en permanencia en primera division
+- #### Estadisticas descriptivas de desempeño por equipo en cada año que participaron del torneo
 
--Relacion entre popularidad (en base a hinchada) y rendimiento de un equipo por torneo 
+- #### Comprender la distribucion por region de los equipos en permanencia en primera division
 
--Relacion del balance total por equipo en concepto de venta y compra de jugadores y su rendimiento
+- #### Relacion entre popularidad (en base a hinchada) y rendimiento de un equipo por torneo 
 
-1-¿Existe correlación entre la popularidad de un equipo y su rendimiento en los torneos?
+- #### Relacion del balance total por equipo en concepto de venta y compra de jugadores y su rendimiento
 
-2-¿Cómo es la distribución de los equipos por región participantes de los torneos por año?
+#### 1-¿Existe correlación entre la popularidad de un equipo y su rendimiento en los torneos?
 
-3-¿Existe correlación entre ser un equipo de región y el rendimiento de dicho equipo?
+#### 2-¿Cómo es la distribución de los equipos por región participantes de los torneos por año?
 
-4-¿De qué regiones son los equipos con mejor rendimiento?
+#### 3-¿Existe correlación entre ser un equipo de región y el rendimiento de dicho equipo?
 
-5-¿Existe correlación entre el balance total en concepto de compra y venta de jugadores de los 3 mejores equipos y los 3 peores 
+#### 4-¿De qué regiones son los equipos con mejor rendimiento?
+
+#### 5-¿Existe correlación entre el balance total en concepto de compra y venta de jugadores de los 3 mejores equipos y los 3 peores 
 equipos de los torneos por años y su rendimiento en los torneos?
 
-### 6-¿Serán los equipos que más invierten los con mejor rendimiento?
+#### 6-¿Serán los equipos que más invierten los con mejor rendimiento?
 
 # Observaciones y hallazgos
 
 ## Veamos un gráfico que presente los puntos obtenidos por todos los equipos en nuestro Data Frame final.
 
-<p include graphg.html >
-</p>
+{% include graphg.html %}
 
 ## Veamos un **mapa** con el cual podremos visualizar la distribución de los equipos y su estadio a lo largo de Chile.
 
-<p include figure.html >
-</p>
+{% include figure.html %}
 
 
 ### Los resultados hallados durante el estudio de lo planteado los responderemos en base a la relacion que tienen con respecto a las preguntas de investigación planteadas:
@@ -60,8 +59,7 @@ equipos de los torneos por años y su rendimiento en los torneos?
 
 ##### Distribución de equipos que permanericeron en primera división.
 
-<p include huasos.html >
-</p>
+{% include huasos.html %}
 
 
 #### 3) Para las preguntas 3 y 4, al analizar el dataframe de rendimiento acumulado, vemos que 6 de los 7 equipos de la región metropolitana se han mantenido sin descender a lo largo del intervalo de tiempo estudiado. Esto puede ser indicativo de que al ser un equipo de región se tiene mayores probabilidades de descender a la segunda división del fútbol chileno. No consideramos el ser de región como variable categórica en el análisis ya que pudimos llegar a esta conclusión mediante el dataframe de rendimiento acumulado.
@@ -73,10 +71,8 @@ equipos de los torneos por años y su rendimiento en los torneos?
 ---
 
 ## Video de la presentación
-<p include huasos.html >
-</p>
+
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t5098uwdkMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-{% include figure.html %}
