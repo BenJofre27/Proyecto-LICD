@@ -61,9 +61,9 @@ Los resultados hallados durante el estudio de lo planteado los responderemos en 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t5098uwdkMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-{% include_relative figure.html %}
-{% include figure.html %}
-<embed type="text/html" src="figure.html" width="600" height="400"></embed>
+{% include_relative _includes\figure.html %}
+{% include _includes\figure.html %}
+<embed type="text/html" src="_includes\figure.html" width="600" height="400"></embed>
 <iframe>
 <object>
 <div>
