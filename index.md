@@ -5,6 +5,8 @@
 Este proyecto surgió por el fanatismo que tenemos hacia el futbol, los torneos nacionales y cada amistoso que se ha desarrollado que hemos puesto nuestra atencion, desarrollando un gran sentimiento de amor y aprecio por el deporte, generando lazos con equipos determinados por su juego, cordinacion y determinacion por ganar.
 Dando un paso mas alla, nos intrigo el funcionamiento de cada equipo para que nos den el espectaculo que tanto nos gusta ver en vivo, y nos concentramos en analizar estadisticas de los campeonatos nacionales de fútbol profesional chileno de primera división.
 
+{% include regresion_2.html %}
+
 Utilizamos como fuentes de información las paginas siguientes:
 
 -Wkipedia, que nos facilitaba la obtención de resultados positivos, ya que poseia varias tablas con información útil respecto al año de torneo que se requería, y era mas sencillo aplicar web scraping.
