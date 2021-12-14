@@ -75,3 +75,24 @@ equipos de los torneos por años y su rendimiento en los torneos?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t5098uwdkMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+---
+#### Referencias:
+* ##### Tablas de campeonatos :
+    * ##### 2020 : https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Chile_2020
+    * ##### 2019 : https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Chile_2019
+    * ##### 2018 : https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Chile_2018
+    * ##### 2017 : https://es.wikipedia.org/wiki/Torneo_de_Transici%C3%B3n_2017_(Chile)
+    * ##### 2016 : https://es.wikipedia.org/wiki/Torneo_Clausura_2017_(Chile)
+    * ##### 2015 : https://es.wikipedia.org/wiki/Torneo_Clausura_2016_(Chile)
+    * ##### 2014 : https://es.wikipedia.org/wiki/Torneo_Clausura_2015_(Chile)
+    * ##### 2013 : https://es.wikipedia.org/wiki/Temporada_2013-2014_del_f%C3%BAtbol_chileno
+    * ##### 2012 : https://es.wikipedia.org/wiki/Torneo_Clausura_2012_(Chile)
+    * ##### 2011 : https://es.wikipedia.org/wiki/Torneo_Clausura_2011_(Chile)
+    * ##### 2010 : https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Chile_2010
+    
+* ##### Datos de Estadio y Asistencia:
+    * ##### Asistencia de público: http://www.estadioseguro.gob.cl/2019/01/04/asistencia-de-publico-a-los-estadios-marca-cifra-record-en-2018/
+    * ##### Estadios: https://es.wikipedia.org/wiki/Anexo:Estadios_de_f%C3%BAtbol_de_Chile
+    
+* ##### Datos de transferencias 2010-2021:
+    * ##### Transferencias : https://www.transfermarkt.es/primera-division-de-chile/einnahmenausgaben/wettbewerb/CLPD/plus/0?ids=a&sa=&saison_id=2009&saison_id_bis=2009&nat=&pos=&altersklasse=&w_s=&leihe=&intern=0
